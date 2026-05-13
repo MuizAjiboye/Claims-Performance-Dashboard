@@ -75,4 +75,4 @@ Each visual was selected to maximize clarity, reduce cognitive load, and support
 
 ## 🔗 Dashboard Link
 ```text
-https://github.com/MuizAjiboye/Claims-Performance-Dashboard/blob/main/Claims%20Performnace%20Review%20Screenshot.png
+https://github.com/MuizAjiboye/Claims-Performance-Dashboard/blob/main/Claims%20Performance%20Dashboard.png
